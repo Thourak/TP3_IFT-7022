@@ -1,407 +1,172 @@
 [
     {
-        "text": "Le 5 avril 2023, l'employé #4 de SkyHigh Scaffolding travaillait sur un échafaudage lorsqu'une section s'est effondrée. L'accident, survenu à 15h30, a entraîné la chute de l'employé #4 de 15 pieds de haut. L'employé a souffert de fractures au bras et à la jambe et a été transporté à l'hôpital le plus proche.",
+        "text": "On November 23, 2011, Employee #1, a working foreman with Bay Cities Paving & Grading, Inc., based in Concord, was part of a crew assigned to load \"K-Rail Barriers\" (approximately 8,000 pounds each) onto trucks and trailers (in West Sacramento) for transport to a road project. Employee was on the trailer, a coworker was on the ground, and a third coworker was operating a front loader, being used to lift the K-Rails. Six K-Rails were loaded per trailer. A cable with loop was threaded through a lifting hole on each end of the K-Rail and secured with a metal pin. After the last K-Rail was placed onto the trailer, Employee #1 removed a pin that secured the lifting cable closest to the middle of the trailer and returned to the cable/pin closest to the rear of the trailer. The loader operator saw Employee #1 remove the pin from the cable closest to the rear of the trailer and pull the cable free of that lifting hole. The loader operator believed he saw a signal to back-up, and he did so. As the operator was backing up, Employee #1 jumped off the trailer and was struck by the K-Rail, as it fell off the trailer. The job foreman called emergency medical services and the West Sacramento Fire Department responded and arranged transport to UC Davis Medical Center in Sacramento. Crushing injuries to Employee #1's right foot resulted in the amputation of three toes and the partial amputation of a fourth toe. Employee #1 remained hospitalized for two weeks. None of the employees could say what actually caused the K-Rail to fall off the trailer.",
+        "ID": 350,
         "arguments": {
-            "EVENT": [
-                "effondrement d'une section d'échafaudage"
-            ],
-            "ACTIVITY": [
-                "travail sur un échafaudage"
-            ],
-            "WHO": [
-                "employé #4",
-                "SkyHigh Scaffolding"
-            ],
-            "WHERE": [
-                "chantier de construction"
-            ],
-            "WHEN": [
-                "5 avril 2023",
-                "15h30"
-            ],
-            "CAUSE": [
-                "effondrement d'une section d'échafaudage"
-            ],
-            "EQUIPMENT": [
-                "échafaudage"
-            ],
-            "INJURY": [
-                "fractures au bras et à la jambe"
-            ],
-            "INJURED": [
-                "employé #4"
-            ],
-            "BODY-PARTS": [
-                "bras", "jambe"
-            ],
-            "DEATH": [
-                ""
-            ]
+            "EVENT": ["Loading K-Rail Barriers onto trucks and trailers"],
+            "ACTIVITY": ["Loading heavy equipment"],
+            "WHO": ["Employee #1, coworkers, loader operator"],
+            "WHERE": ["West Sacramento"],
+            "WHEN": ["November 23, 2011"],
+            "CAUSE": ["Miscommunication, removal of lifting cable pin"],
+            "EQUIPMENT": ["K-Rail Barriers, front loader, trucks, trailers"],
+            "INJURY": ["Crushing injuries, amputation of toes"],
+            "INJURED": ["Employee #1"],
+            "BODY-PARTS": ["Right foot"],
+            "DEATH": [""]
         }
     },
     {
-        "text": "Le 18 juillet 2022, lors d'une opération de levage par l'équipe de CraneTech, un câble de grue a cédé, causant la chute d'une charge lourde à proximité de l'employé #5. L'incident, survenu à 9h45, n'a pas entraîné de blessures, mais a provoqué un choc sévère chez l'employé.",
+        "text": "On the evening of October 25, 2010, Employee #1, a 42-yr-old male construction equipment operator, was working on a highway road crew. While moving road safety drums from the grassy median to the center line of the multi-lane highway, he was struck and killed when the driver of a private owned vehicle swerved erratically across the safety barrels. The driver was apprehended and placed under arrest for DUI manslaughter, driving on a suspended license, failure to drive a single lane, and leaving the scene of an accident involving a fatality.",
+        "ID": 351,
         "arguments": {
-            "EVENT": [
-                "câble de grue cédé",
-                "chute d'une charge lourde"
-            ],
-            "ACTIVITY": [
-                "opération de levage"
-            ],
-            "WHO": [
-                "employé #5",
-                "CraneTech"
-            ],
-            "WHERE": [
-                "site de construction"
-            ],
-            "WHEN": [
-                "18 juillet 2022",
-                "9h45"
-            ],
-            "CAUSE": [
-                "câble de grue défectueux"
-            ],
-            "EQUIPMENT": [
-                "grue", 
-                "câble de grue"
-            ],
-            "INJURY": [
-                "choc sévère"
-            ],
-            "INJURED": [
-                "employé #5"
-            ],
-            "BODY-PARTS": [
-                ""
-            ],
-            "DEATH": [
-                ""
-            ]
+            "EVENT": ["Employee struck by a vehicle"],
+            "ACTIVITY": ["Moving road safety drums"],
+            "WHO": ["Employee #1, vehicle driver"],
+            "WHERE": ["Highway road"],
+            "WHEN": ["October 25, 2010"],
+            "CAUSE": ["Vehicle swerving, DUI"],
+            "EQUIPMENT": ["Road safety drums, vehicle"],
+            "INJURY": ["Fatal"],
+            "INJURED": ["Employee #1"],
+            "BODY-PARTS": ["Not specified"],
+            "DEATH": ["Employee #1"]
         }
     },
     {
-        "text": "Le 23 octobre 2023, deux ouvriers d'UrbanFix Ltd, employés #6 et #7, effectuaient des réparations sur une toiture lorsqu'une planche a cédé. Ils ont glissé et chuté de 10 pieds, subissant des blessures légères. L'accident s'est produit à 11h10.",
+        "text": "On September 15, 2010, Employee #1 was working for Hatcher Roofing. On average, and depending on the weather, the employer replaced two roofs per week. Employee #1 was installing ice guard and tar paper for the installation of shingles on a shingled roof with a 5-in-12 pitch. He was walking backward, when he stepped off the back of the roof and fell 15 feet to the concrete slab below. Employee #1 was taken to Akron General Hospital by Life Flight. On September 17, 2010, his family discontinued life support, and he died. Employee #1 had been working without fall protection, because his employer was using an alternative fall protection, such as slide guards. The other workers were not trained in fall protection systems relating to residential houses or in the proper way to use alternative fall protection systems. There were four other workers on the roof at the time of the accident. When the emergency personnel were on the scene, the firm's owner went to the shop and retrieved personal fall arrest equipment. He then made his employees install roof anchors before continuing the roofing work.",
+        "ID": 352,
         "arguments": {
-            "EVENT": [
-                "planche cédée", 
-                "chute de la toiture"
-            ],
-            "ACTIVITY": [
-                "réparations sur une toiture"
-            ],
-            "WHO": [
-                "employés #6 et #7",
-                "UrbanFix Ltd"
-            ],
-            "WHERE": [
-                "toiture d'un bâtiment"
-            ],
-            "WHEN": [
-                "23 octobre 2023",
-                "11h10"
-            ],
-            "CAUSE": [
-                "planche défectueuse"
-            ],
-            "EQUIPMENT": [
-                "planche", 
-                "outils de toiture"
-            ],
-            "INJURY": [
-                "blessures légères"
-            ],
-            "INJURED": [
-                "employés #6 et #7"
-            ],
-            "BODY-PARTS": [
-                "non spécifié"
-            ],
-            "DEATH": [
-                ""
-            ]
+            "EVENT": ["Fall from a roof"],
+            "ACTIVITY": ["Installing ice guard and tar paper"],
+            "WHO": ["Employee #1, other workers"],
+            "WHERE": ["Residential house"],
+            "WHEN": ["September 15, 2010"],
+            "CAUSE": ["Lack of fall protection, walking backward"],
+            "EQUIPMENT": ["Ice guard, tar paper, slide guards"],
+            "INJURY": ["Fatal fall injuries"],
+            "INJURED": ["Employee #1"],
+            "BODY-PARTS": ["Not specified"],
+            "DEATH": ["Employee #1"]
         }
     },
     {
-        "text": "Le 30 mai 2023, un incendie s'est déclaré sur un chantier de RiverConstructions. L'employé #8, qui travaillait à proximité, a inhalé de la fumée et a été traité pour une intoxication légère. L'incident a eu lieu à 16h20.",
+        "text": "On August 11, 2010, Employee #1, of Pioneer Contracting Company, Incorporated, was working along the road at night and jumped over the Jersey barrier. He fell 20 ft and was killed from the fall.",
+        "ID": 353,
         "arguments": {
-            "EVENT": [
-                "début d'incendie"
-            ],
-            "ACTIVITY": [
-                "travaux de construction"
-            ],
-            "WHO": [
-                "employé #8",
-                "RiverConstructions"
-            ],
-            "WHERE": [
-                "chantier de construction"
-            ],
-            "WHEN": [
-                "30 mai 2023",
-                "16h20"
-            ],
-            "CAUSE": [
-                "non spécifiée"
-            ],
-            "EQUIPMENT": [
-                "matériel de construction"
-            ],
-            "INJURY": [
-                "intoxication légère"
-            ],
-            "INJURED": [
-                "employé #8"
-            ],
-            "BODY-PARTS": [
-                "poumons"
-            ],
-            "DEATH": [
-                ""
-            ]
+            "EVENT": ["Fall from a Jersey barrier"],
+            "ACTIVITY": ["Working along the road at night"],
+            "WHO": ["Employee #1"],
+            "WHERE": ["Roadside"],
+            "WHEN": ["August 11, 2010"],
+            "CAUSE": ["Jumping over barrier, accidental fall"],
+            "EQUIPMENT": ["Jersey barrier"],
+            "INJURY": ["Fatal"],
+            "INJURED": ["Employee #1"],
+            "BODY-PARTS": ["Not specified"],
+            "DEATH": ["Employee #1"]
         }
     },
     {
-        "text": "Le 12 janvier 2023, un court-circuit électrique a provoqué un petit incendie sur le site de PowerGrid Ltd. L'employé #9, électricien, a réussi à éteindre le feu mais a subi des brûlures légères aux mains. L'événement s'est produit à 10h15.",
+        "text": "On August 9, 2010, Employee #1 was walking along a path that was 26 inches to 36 inches wide. The path was between the left track of an excavator and a cutaway portion of a hillside that was 36 inches to 39 inches high. While Employee #1 was in this area, the excavator operator used a Daewoo excavator (Model Number SL 340 LC-V) to take a shovel load of soil from the area being excavated. As the operator swung the shovel and superstructure to his right, the swinging superstructure struck Employee #1. He was knocked against the side of the hill, eventually struck the top of his head, and fell on the excavator track that was in contact with the ground. The excavator's tracks had been stationary for approximately 45 minutes at the time of the accident. Employee #1 was killed. No barricade was erected around the excavator to prevent employees from entering the swing radius area, where they could be struck by the swinging superstructure. The employer did not have a rule requiring that such a barricade be erected.",
+        "ID": 354,
         "arguments": {
-            "EVENT": [
-                "court-circuit électrique",
-                "petit incendie"
-            ],
-            "ACTIVITY": [
-                "travaux électriques"
-            ],
-            "WHO": [
-                "employé #9",
-                "PowerGrid Ltd"
-            ],
-            "WHERE": [
-                "site électrique"
-            ],
-            "WHEN": [
-                "12 janvier 2023",
-                "10h15"
-            ],
-            "CAUSE": [
-                "court-circuit"
-            ],
-            "EQUIPMENT": [
-                "outils électriques"
-            ],
-            "INJURY": [
-                "brûlures légères"
-            ],
-            "INJURED": [
-                "employé #9"
-            ],
-            "BODY-PARTS": [
-                "mains"
-            ],
-            "DEATH": [
-                ""
-            ]
+            "EVENT": ["Struck by excavator superstructure"],
+            "ACTIVITY": ["Walking along a narrow path near excavator"],
+            "WHO": ["Employee #1, excavator operator"],
+            "WHERE": ["Excavation site"],
+            "WHEN": ["August 9, 2010"],
+            "CAUSE": ["Lack of barricades, swinging excavator superstructure"],
+            "EQUIPMENT": ["Daewoo excavator SL 340 LC-V"],
+            "INJURY": ["Fatal"],
+            "INJURED": ["Employee #1"],
+            "BODY-PARTS": ["Head"],
+            "DEATH": ["Employee #1"]
         }
     },
     {
-        "text": "Le 3 mars 2023, lors d'une opération de démolition par DemolitionPro, une partie du mur s'est effondrée inopinément, blessant légèrement l'employé #10. L'accident a eu lieu à 14h05 et a été causé par une erreur dans le calcul des charges.",
+        "text": "On July 26, 2010, Employee #1, an employee of Brasfield & Gorrie, was walking backward pulling a 33 ft sheet of decking, and he fell through a floor opening 15 ft to the ground. Employee #1 was hospitalized for unspecified injuries.",
+        "ID": 355,
         "arguments": {
-            "EVENT": [
-                "effondrement d'une partie du mur"
-            ],
-            "ACTIVITY": [
-                "opération de démolition"
-            ],
-            "WHO": [
-                "employé #10",
-                "DemolitionPro"
-            ],
-            "WHERE": [
-                "site de démolition"
-            ],
-            "WHEN": [
-                "3 mars 2023",
-                "14h05"
-            ],
-            "CAUSE": [
-                "erreur de calcul des charges"
-            ],
-            "EQUIPMENT": [
-                "matériel de démolition"
-            ],
-            "INJURY": [
-                "blessures légères"
-            ],
-            "INJURED": [
-                "employé #10"
-            ],
-            "BODY-PARTS": [
-                "non spécifié"
-            ],
-            "DEATH": [
-                ""
-            ]
-        }
-    },  
-    {
-        "text": "Le 17 septembre 2023, lors de travaux de terrassement par EarthMovers Inc., l'employé #11 a été pris dans un glissement de terrain. L'incident s'est produit à 13h20, causant des contusions et des éraflures à l'employé, qui a été secouru rapidement par ses collègues.",
-        "arguments": {
-            "EVENT": [
-                "employé pris dans un glissement de terrain"
-            ],
-            "ACTIVITY": [
-                "travaux de terrassement"
-            ],
-            "WHO": [
-                "employé #11",
-                "EarthMovers Inc."
-            ],
-            "WHERE": [
-                "chantier de terrassement"
-            ],
-            "WHEN": [
-                "17 septembre 2023",
-                "13h20"
-            ],
-            "CAUSE": [
-                "glissement de terrain"
-            ],
-            "EQUIPMENT": [
-                "équipement de terrassement"
-            ],
-            "INJURY": [
-                "contusions", "éraflures"
-            ],
-            "INJURED": [
-                "employé #11"
-            ],
-            "BODY-PARTS": [
-                "non spécifié"
-            ],
-            "DEATH": [
-                ""
-            ]
+            "EVENT": ["Fall through a floor opening"],
+            "ACTIVITY": ["Pulling a sheet of decking"],
+            "WHO": ["Employee #1"],
+            "WHERE": ["Construction site"],
+            "WHEN": ["July 26, 2010"],
+            "CAUSE": ["Unprotected floor opening, walking backward"],
+            "EQUIPMENT": ["Decking sheet"],
+            "INJURY": ["Unspecified injuries"],
+            "INJURED": ["Employee #1"],
+            "BODY-PARTS": ["Not specified"],
+            "DEATH": [""]
         }
     },
     {
-        "text": "Le 8 août 2023, un incendie mineur a éclaté chez ElectricalWorks Ltd, causé par un court-circuit. L'employé #12, un électricien, a subi des brûlures mineures en tentant d'éteindre le feu. L'événement s'est produit à 09h50.",
+        "text": "On November 9, 2009, Employee #1, Employee #2, and a coworker were preparing to conduct a final tension check of a cable barrier system. They arrived at the jobsite, in a company truck, and pulled off the road into the center median. As Employee #1 and Employee #2 exited the truck, they grabbed a calibrator, a device used to check cable tension. Without warning, a Ford F-350 truck hauling a coil of aluminum on a gooseneck trailer swerved left, from the right-hand lane, and into the center median. The truck contacted the cable barrier system, and as it continued to travel south, it struck Employees #1 and #2, who were checking the cable tension. After the truck struck Employees #1 and #2, it continued for 300 feet to 400 feet, before coming to a stop in the center median. Employees #1 and #2 were killed.",
+        "ID": 356,
         "arguments": {
-            "EVENT": [
-                "incendie mineur"
-            ],
-            "ACTIVITY": [
-                "travaux électriques"
-            ],
-            "WHO": [
-                "employé #12",
-                "ElectricalWorks Ltd"
-            ],
-            "WHERE": [
-                "site électrique"
-            ],
-            "WHEN": [
-                "8 août 2023",
-                "09h50"
-            ],
-            "CAUSE": [
-                "court-circuit"
-            ],
-            "EQUIPMENT": [
-                "outils électriques"
-            ],
-            "INJURY": [
-                "brûlures mineures"
-            ],
-            "INJURED": [
-                "employé #12"
-            ],
-            "BODY-PARTS": [
-                "mains"
-            ],
-            "DEATH": [
-                ""
-            ]
+            "EVENT": ["Truck collision with cable barrier system"],
+            "ACTIVITY": ["Conducting a final tension check of a cable barrier system"],
+            "WHO": ["Employee #1", "Employee #2", "coworker"],
+            "WHERE": ["Center median of the road"],
+            "WHEN": ["November 9, 2009"],
+            "CAUSE": ["Truck swerving into the center median"],
+            "EQUIPMENT": ["Calibrator", "Ford F-350 truck", "gooseneck trailer"],
+            "INJURY": ["Struck by truck"],
+            "INJURED": ["Employee #1", "Employee #2"],
+            "BODY-PARTS": ["Not specified"],
+            "DEATH": ["Employee #1", "Employee #2"]
         }
     },
     {
-        "text": "Le 21 février 2023, pendant la construction d'une autoroute par HighwayBuilders Co., un camion a renversé l'employé #13, entraînant de graves blessures. L'accident, survenu à 16h30, a été causé par une visibilité réduite due à la poussière.",
+        "text": "Employee #1, working for Tracey's Lawn Care Inc. in Finksburg, MD, was charging the batteries of a MACK dump truck when one of the four batteries exploded. Employee #1 was struck in the face by flying pieces of the battery case and electrolyte substance. He suffered an acid burn to the cornea of the left eye and minor cuts.",
+        "ID": 357,
         "arguments": {
-            "EVENT": [
-                "employé renversé par un camion"
-            ],
-            "ACTIVITY": [
-                "construction d'une autoroute"
-            ],
-            "WHO": [
-                "employé #13",
-                "HighwayBuilders Co."
-            ],
-            "WHERE": [
-                "chantier d'autoroute"
-            ],
-            "WHEN": [
-                "21 février 2023",
-                "16h30"
-            ],
-            "CAUSE": [
-                "visibilité réduite par la poussière"
-            ],
-            "EQUIPMENT": [
-                "camion"
-            ],
-            "INJURY": [
-                "graves blessures"
-            ],
-            "INJURED": [
-                "employé #13"
-            ],
-            "BODY-PARTS": [
-                "non spécifié"
-            ],
-            "DEATH": [
-                ""
-            ]
+            "EVENT": ["Battery explosion"],
+            "ACTIVITY": ["Charging the batteries of a dump truck"],
+            "WHO": ["Employee #1"],
+            "WHERE": ["Finksburg, MD"],
+            "WHEN": ["Not specified"],
+            "CAUSE": ["Battery explosion"],
+            "EQUIPMENT": ["MACK dump truck", "battery charger"],
+            "INJURY": ["Acid burn to the cornea", "minor cuts"],
+            "INJURED": ["Employee #1"],
+            "BODY-PARTS": ["Face", "left eye"],
+            "DEATH": [""]
         }
     },
     {
-        "text": "Le 11 novembre 2023, un ouvrier de SteelWorks Ltd, l'employé #14, a été électrocuté en manipulant des câbles non sécurisés sur un chantier. L'accident, survenu à 10h05, a provoqué des brûlures graves nécessitant une hospitalisation immédiate.",
+        "text": "Employee #1 was assigned by his operations manager to start up the crane carrier on an old crane that was being sold. The battery that was in the crane carrier was dead and needed to be jump started. Employee #1 hooked the cables of a Quick Start 12-volt heavy duty battery charger up to the terminals of the battery in the engine compartment. He descended from the crane carrier and started up the battery charger. He then went back to the engine compartment and took the hot ground wires from the starter on the carrier motor and struck them together so he could start the motor. The 12-volt battery exploded and covered his face and eyes with sulfuric acid. He was not wearing the provided eye protection. He received caustic burns and was hospitalized.",
+        "ID": 358,
         "arguments": {
-            "EVENT": [
-                "électrocution de l'employé"
-            ],
-            "ACTIVITY": [
-                "manipulation de câbles électriques"
-            ],
-            "WHO": [
-                "employé #14",
-                "SteelWorks Ltd"
-            ],
-            "WHERE": [
-                "chantier de construction"
-            ],
-            "WHEN": [
-                "11 novembre 2023",
-                "10h05"
-            ],
-            "CAUSE": [
-                "câbles non sécurisés"
-            ],
-            "EQUIPMENT": [
-                "câbles électriques"
-            ],
-            "INJURY": [
-                "brûlures graves"
-            ],
-            "INJURED": [
-                "employé #14"
-            ],
-            "BODY-PARTS": [
-                "mains", "bras"
-            ],
-            "DEATH": [
-                ""
-            ]
+            "EVENT": ["Battery explosion"],
+            "ACTIVITY": ["Starting up a crane carrier"],
+            "WHO": ["Employee #1"],
+            "WHERE": ["Not specified"],
+            "WHEN": ["Not specified"],
+            "CAUSE": ["Striking hot ground wires together"],
+            "EQUIPMENT": ["Quick Start 12-volt heavy duty battery charger", "crane carrier"],
+            "INJURY": ["Caustic burns"],
+            "INJURED": ["Employee #1"],
+            "BODY-PARTS": ["Face", "eyes"],
+            "DEATH": [""]
         }
-    }
+    },
+    {
+        "text": "On August 21, 2013, Employee #1 and Coworker #1, of Western Steel Erectors, were erecting steel beams as part of a building construction. After connecting beams in one area, they proceeded to move to another area to perform additional beam connections. They were walking on top of a CMU (concrete masonry unit) wall when Employee #1 fell approximately 22 feet to a concrete floor below. Emergency services were called, and Employee #1 was transported to the hospital, where he was admitted and treated for multiple fractures to both his arms.",
+        "ID": 359,
+        "arguments": {
+            "EVENT": ["Fall from height"],
+            "ACTIVITY": ["Erecting steel beams"],
+            "WHO": ["Employee #1", "Coworker #1"],
+            "WHERE": ["Construction site"],
+            "WHEN": ["August 21, 2013"],
+            "CAUSE": ["Falling from CMU wall"],
+            "EQUIPMENT": ["Steel beams", "CMU wall"],
+            "INJURY": ["Multiple fractures"],
+            "INJURED": ["Employee #1"],
+            "BODY-PARTS": ["Arms"],
+            "DEATH": [""]
+        }
+    }    
 ]
