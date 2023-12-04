@@ -1,9 +1,407 @@
 [
-    # A COMPLÉTER
-    # 
-    # Mettre, au minimum, 10 nouveaux exemples dans cette liste qui respectent la structure des informations extraites. 
-    # Vous devez valider les nouveaux exemples manuellement pour vous assurer de leur qualité.
-    # Cela prend du temps, il faut compter entre 10 et 15 minutes par exemple. 
-    #
-    # Vous pouvez retirer ce texte pour la remise. 
+    {
+        "text": "Le 5 avril 2023, l'employé #4 de SkyHigh Scaffolding travaillait sur un échafaudage lorsqu'une section s'est effondrée. L'accident, survenu à 15h30, a entraîné la chute de l'employé #4 de 15 pieds de haut. L'employé a souffert de fractures au bras et à la jambe et a été transporté à l'hôpital le plus proche.",
+        "arguments": {
+            "EVENT": [
+                "effondrement d'une section d'échafaudage"
+            ],
+            "ACTIVITY": [
+                "travail sur un échafaudage"
+            ],
+            "WHO": [
+                "employé #4",
+                "SkyHigh Scaffolding"
+            ],
+            "WHERE": [
+                "chantier de construction"
+            ],
+            "WHEN": [
+                "5 avril 2023",
+                "15h30"
+            ],
+            "CAUSE": [
+                "effondrement d'une section d'échafaudage"
+            ],
+            "EQUIPMENT": [
+                "échafaudage"
+            ],
+            "INJURY": [
+                "fractures au bras et à la jambe"
+            ],
+            "INJURED": [
+                "employé #4"
+            ],
+            "BODY-PARTS": [
+                "bras", "jambe"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "Le 18 juillet 2022, lors d'une opération de levage par l'équipe de CraneTech, un câble de grue a cédé, causant la chute d'une charge lourde à proximité de l'employé #5. L'incident, survenu à 9h45, n'a pas entraîné de blessures, mais a provoqué un choc sévère chez l'employé.",
+        "arguments": {
+            "EVENT": [
+                "câble de grue cédé",
+                "chute d'une charge lourde"
+            ],
+            "ACTIVITY": [
+                "opération de levage"
+            ],
+            "WHO": [
+                "employé #5",
+                "CraneTech"
+            ],
+            "WHERE": [
+                "site de construction"
+            ],
+            "WHEN": [
+                "18 juillet 2022",
+                "9h45"
+            ],
+            "CAUSE": [
+                "câble de grue défectueux"
+            ],
+            "EQUIPMENT": [
+                "grue", 
+                "câble de grue"
+            ],
+            "INJURY": [
+                "choc sévère"
+            ],
+            "INJURED": [
+                "employé #5"
+            ],
+            "BODY-PARTS": [
+                ""
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "Le 23 octobre 2023, deux ouvriers d'UrbanFix Ltd, employés #6 et #7, effectuaient des réparations sur une toiture lorsqu'une planche a cédé. Ils ont glissé et chuté de 10 pieds, subissant des blessures légères. L'accident s'est produit à 11h10.",
+        "arguments": {
+            "EVENT": [
+                "planche cédée", 
+                "chute de la toiture"
+            ],
+            "ACTIVITY": [
+                "réparations sur une toiture"
+            ],
+            "WHO": [
+                "employés #6 et #7",
+                "UrbanFix Ltd"
+            ],
+            "WHERE": [
+                "toiture d'un bâtiment"
+            ],
+            "WHEN": [
+                "23 octobre 2023",
+                "11h10"
+            ],
+            "CAUSE": [
+                "planche défectueuse"
+            ],
+            "EQUIPMENT": [
+                "planche", 
+                "outils de toiture"
+            ],
+            "INJURY": [
+                "blessures légères"
+            ],
+            "INJURED": [
+                "employés #6 et #7"
+            ],
+            "BODY-PARTS": [
+                "non spécifié"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "Le 30 mai 2023, un incendie s'est déclaré sur un chantier de RiverConstructions. L'employé #8, qui travaillait à proximité, a inhalé de la fumée et a été traité pour une intoxication légère. L'incident a eu lieu à 16h20.",
+        "arguments": {
+            "EVENT": [
+                "début d'incendie"
+            ],
+            "ACTIVITY": [
+                "travaux de construction"
+            ],
+            "WHO": [
+                "employé #8",
+                "RiverConstructions"
+            ],
+            "WHERE": [
+                "chantier de construction"
+            ],
+            "WHEN": [
+                "30 mai 2023",
+                "16h20"
+            ],
+            "CAUSE": [
+                "non spécifiée"
+            ],
+            "EQUIPMENT": [
+                "matériel de construction"
+            ],
+            "INJURY": [
+                "intoxication légère"
+            ],
+            "INJURED": [
+                "employé #8"
+            ],
+            "BODY-PARTS": [
+                "poumons"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "Le 12 janvier 2023, un court-circuit électrique a provoqué un petit incendie sur le site de PowerGrid Ltd. L'employé #9, électricien, a réussi à éteindre le feu mais a subi des brûlures légères aux mains. L'événement s'est produit à 10h15.",
+        "arguments": {
+            "EVENT": [
+                "court-circuit électrique",
+                "petit incendie"
+            ],
+            "ACTIVITY": [
+                "travaux électriques"
+            ],
+            "WHO": [
+                "employé #9",
+                "PowerGrid Ltd"
+            ],
+            "WHERE": [
+                "site électrique"
+            ],
+            "WHEN": [
+                "12 janvier 2023",
+                "10h15"
+            ],
+            "CAUSE": [
+                "court-circuit"
+            ],
+            "EQUIPMENT": [
+                "outils électriques"
+            ],
+            "INJURY": [
+                "brûlures légères"
+            ],
+            "INJURED": [
+                "employé #9"
+            ],
+            "BODY-PARTS": [
+                "mains"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "Le 3 mars 2023, lors d'une opération de démolition par DemolitionPro, une partie du mur s'est effondrée inopinément, blessant légèrement l'employé #10. L'accident a eu lieu à 14h05 et a été causé par une erreur dans le calcul des charges.",
+        "arguments": {
+            "EVENT": [
+                "effondrement d'une partie du mur"
+            ],
+            "ACTIVITY": [
+                "opération de démolition"
+            ],
+            "WHO": [
+                "employé #10",
+                "DemolitionPro"
+            ],
+            "WHERE": [
+                "site de démolition"
+            ],
+            "WHEN": [
+                "3 mars 2023",
+                "14h05"
+            ],
+            "CAUSE": [
+                "erreur de calcul des charges"
+            ],
+            "EQUIPMENT": [
+                "matériel de démolition"
+            ],
+            "INJURY": [
+                "blessures légères"
+            ],
+            "INJURED": [
+                "employé #10"
+            ],
+            "BODY-PARTS": [
+                "non spécifié"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },  
+    {
+        "text": "Le 17 septembre 2023, lors de travaux de terrassement par EarthMovers Inc., l'employé #11 a été pris dans un glissement de terrain. L'incident s'est produit à 13h20, causant des contusions et des éraflures à l'employé, qui a été secouru rapidement par ses collègues.",
+        "arguments": {
+            "EVENT": [
+                "employé pris dans un glissement de terrain"
+            ],
+            "ACTIVITY": [
+                "travaux de terrassement"
+            ],
+            "WHO": [
+                "employé #11",
+                "EarthMovers Inc."
+            ],
+            "WHERE": [
+                "chantier de terrassement"
+            ],
+            "WHEN": [
+                "17 septembre 2023",
+                "13h20"
+            ],
+            "CAUSE": [
+                "glissement de terrain"
+            ],
+            "EQUIPMENT": [
+                "équipement de terrassement"
+            ],
+            "INJURY": [
+                "contusions", "éraflures"
+            ],
+            "INJURED": [
+                "employé #11"
+            ],
+            "BODY-PARTS": [
+                "non spécifié"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "Le 8 août 2023, un incendie mineur a éclaté chez ElectricalWorks Ltd, causé par un court-circuit. L'employé #12, un électricien, a subi des brûlures mineures en tentant d'éteindre le feu. L'événement s'est produit à 09h50.",
+        "arguments": {
+            "EVENT": [
+                "incendie mineur"
+            ],
+            "ACTIVITY": [
+                "travaux électriques"
+            ],
+            "WHO": [
+                "employé #12",
+                "ElectricalWorks Ltd"
+            ],
+            "WHERE": [
+                "site électrique"
+            ],
+            "WHEN": [
+                "8 août 2023",
+                "09h50"
+            ],
+            "CAUSE": [
+                "court-circuit"
+            ],
+            "EQUIPMENT": [
+                "outils électriques"
+            ],
+            "INJURY": [
+                "brûlures mineures"
+            ],
+            "INJURED": [
+                "employé #12"
+            ],
+            "BODY-PARTS": [
+                "mains"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "Le 21 février 2023, pendant la construction d'une autoroute par HighwayBuilders Co., un camion a renversé l'employé #13, entraînant de graves blessures. L'accident, survenu à 16h30, a été causé par une visibilité réduite due à la poussière.",
+        "arguments": {
+            "EVENT": [
+                "employé renversé par un camion"
+            ],
+            "ACTIVITY": [
+                "construction d'une autoroute"
+            ],
+            "WHO": [
+                "employé #13",
+                "HighwayBuilders Co."
+            ],
+            "WHERE": [
+                "chantier d'autoroute"
+            ],
+            "WHEN": [
+                "21 février 2023",
+                "16h30"
+            ],
+            "CAUSE": [
+                "visibilité réduite par la poussière"
+            ],
+            "EQUIPMENT": [
+                "camion"
+            ],
+            "INJURY": [
+                "graves blessures"
+            ],
+            "INJURED": [
+                "employé #13"
+            ],
+            "BODY-PARTS": [
+                "non spécifié"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    },
+    {
+        "text": "Le 11 novembre 2023, un ouvrier de SteelWorks Ltd, l'employé #14, a été électrocuté en manipulant des câbles non sécurisés sur un chantier. L'accident, survenu à 10h05, a provoqué des brûlures graves nécessitant une hospitalisation immédiate.",
+        "arguments": {
+            "EVENT": [
+                "électrocution de l'employé"
+            ],
+            "ACTIVITY": [
+                "manipulation de câbles électriques"
+            ],
+            "WHO": [
+                "employé #14",
+                "SteelWorks Ltd"
+            ],
+            "WHERE": [
+                "chantier de construction"
+            ],
+            "WHEN": [
+                "11 novembre 2023",
+                "10h05"
+            ],
+            "CAUSE": [
+                "câbles non sécurisés"
+            ],
+            "EQUIPMENT": [
+                "câbles électriques"
+            ],
+            "INJURY": [
+                "brûlures graves"
+            ],
+            "INJURED": [
+                "employé #14"
+            ],
+            "BODY-PARTS": [
+                "mains", "bras"
+            ],
+            "DEATH": [
+                ""
+            ]
+        }
+    }
 ]
